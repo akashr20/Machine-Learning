@@ -1,1 +1,1 @@
-# EDA-project
+# ML-Project
