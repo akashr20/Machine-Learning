@@ -1,0 +1,1 @@
+This project explores machine learning techniques for data analysis and prediction. It includes data preprocessing, model training, evaluation, and visualization. Algorithms used range from linear regression to advanced models. Ideal for learning ML workflows. Code is clean, modular, and well-documented.
